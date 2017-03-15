@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+
+Programming is vast and terrifying and I can't wait to learn more.
