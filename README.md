@@ -1,3 +1,3 @@
-# hello-world
+# MITx-6.00.1x
 
-Programming is vast and terrifying and I can't wait to learn more.
+MIT6.00.1x Introduction to Computer Science and Programming Using Python taken on EDX, Summer 2021
